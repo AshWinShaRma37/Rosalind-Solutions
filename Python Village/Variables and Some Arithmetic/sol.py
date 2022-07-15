@@ -7,3 +7,6 @@ a = int(values[0])
 b = int(values[1])
 #printing the hypotenuse of these numbers
 print(a**2 + b**2)
+
+#closing the opened file
+f.close()

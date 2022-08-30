@@ -1,5 +1,5 @@
 
-   <h2>Intro to Python dictionaryclick to collapse</h2>
+   <h2>Intro to Python dictionary</h2>
     <div>
         <p>We&apos;ve already used lists and strings to store and process data. Python also has a variable type called a &quot;dictionary&quot; that is similar to a list, but instead of having integer indices, you provide your own index, called a &quot;key&quot;. You can assign data to a dictionary as follows:&nbsp;<code>phones = {&apos;Zoe&apos;:&apos;232-43-58&apos;, &apos;Alice&apos;:&apos;165-88-56&apos;}</code>. We can therefore think of a dictionary as a &quot;function&quot; that maps a collection of keys to values. As with lists, the values of the list can be of any type: strings, integers, floating point numbers, even lists or dictionaries themselves. For keys you can use only strings, numbers, floats and other immutable types. Accessing values of a dictionary is also similar to accessing values of a list:</p>
         <div>

@@ -4,7 +4,7 @@ f = open('rosalind_ini4.txt')
 #reading the line and getting the string
 line1 = f.readline()
 
-#getting the calues
+#getting the values
 values = line1.split()
 a = int(values[0])
 b = int(values[1])
